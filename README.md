@@ -3,7 +3,7 @@
 **`Beginner Programmer and Designer`**
 
 * 🌍 Based in NRW, Germany :de:
-* 📫 Contact me here: 
+* 📫 Contact me here: lisa.monti@outlook.de
 
 ## Languages and Tools (still learning)
 
@@ -14,11 +14,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&labelColor=00599C)
 <br />
 <br />
 
